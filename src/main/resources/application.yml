@@ -1,0 +1,6 @@
+app:
+  name: "Config properties app"
+  description: "App to demo config properties"
+  status:
+    role: "POC"
+    life-cycle: "under development"
